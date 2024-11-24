@@ -1,19 +1,15 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=92b6cc&center=true&vCenter=true&random=false&width=524&lines=Bem-Vindo ao meu perfil!+  (•◡•) /♡" alt="Typing SVG">
   </a>
 </div>
-
-<img align="center" alt="" src="./src/header-gif.gif">
 
 #
 - 🔭 Atualmente estou no primeiro ano do ensino médio numa escola técnica (ETEC)
 - 🌱 Estou cursando Informática para Internet
 - 😄 Pronomes: Ela/Dela
 
-
-
-
+#
 <div>
   <a href="https://github.com/GiSant-inf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiSant-inf&show_icons=true&theme=darkblue&include_all_commits=true&count_private=true"/>
@@ -27,6 +23,7 @@
   
  ##
 
+<h3 align="left">Connect with me!</h3>
 <div>
   <a href="https://www.instagram.com/gi_sant.informatica/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@gisant.informatica"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
