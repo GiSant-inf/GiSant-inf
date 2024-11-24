@@ -20,7 +20,9 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
+    
+  ![convert original.gif -resize 50% menor.gifezgif com-animated-gif-maker](https://github.com/user-attachments/assets/e6464cdc-b37b-47a4-8332-78e253184895 )
+
  ##
 
 <h3 align="left">Connect with me!</h3>
