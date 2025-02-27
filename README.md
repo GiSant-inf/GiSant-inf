@@ -7,7 +7,7 @@
 #
 - 🔭 Atualmente estou no primeiro ano do ensino médio numa escola técnica (ETEC)
 - 🌱 Estou cursando Informática para Internet
-- 😄 Pronomes: Ela/Dela
+
 
 #
 <div>
